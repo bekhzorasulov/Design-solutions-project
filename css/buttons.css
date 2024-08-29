@@ -1,0 +1,29 @@
+.btn {
+    padding: 1.4rem 4.5rem;
+    border: 0.1rem solid black;
+    border-radius: 3rem;
+    background-color: black;
+    color: #fff7f0;
+    &:hover {
+        color: black;
+        background-color: #fff7f0;
+    }
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+}
+
+.btn-light {
+    padding: 1.4rem 4.5rem;
+    border: 0.1rem solid #eb7565;
+    border-radius: 3rem;
+    background-color: #eb7565;
+    color: #fff7f0;
+    &:hover {
+        color: #eb7565;
+        background-color: #fff7f0;
+    }
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+}
